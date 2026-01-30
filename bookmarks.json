@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Anonymity & Fingerprint",
+    "children": [
+      {"title": "amiunique.org", "uri": "https://amiunique.org"},
+      {"title": "browserleaks.com", "uri": "https://browserleaks.com"},
+      {"title": "whoer.net", "uri": "https://whoer.net"},
+      {"title": "coveryourtracks.eff.org", "uri": "https://coveryourtracks.eff.org"},
+      {"title": "fingerprintjs.github.io", "uri": "https://fingerprintjs.github.io/fingerprintjs/"},
+      {"title": "panopticlick.eff.org", "uri": "https://panopticlick.eff.org"},
+      {"title": "browserleaks.com/canvas", "uri": "https://browserleaks.com/canvas"},
+      {"title": "browserleaks.com/webgl", "uri": "https://browserleaks.com/webgl"},
+      {"title": "browserleaks.com/audiocontext", "uri": "https://browserleaks.com/audiocontext"}
+    ]
+  },
+  {
+    "title": "IP / Network / ASN",
+    "children": [
+      {"title": "ipinfo.io", "uri": "https://ipinfo.io"},
+      {"title": "ipleak.net", "uri": "https://ipleak.net"},
+      {"title": "dnsleaktest.com", "uri": "https://www.dnsleaktest.com"},
+      {"title": "bgp.he.net", "uri": "https://bgp.he.net"},
+      {"title": "ip-api.com", "uri": "https://ip-api.com"},
+      {"title": "ipwhois.io", "uri": "https://ipwhois.io"},
+      {"title": "viewdns.info", "uri": "https://viewdns.info"},
+      {"title": "hackertarget.com/reverse-dns-lookup/", "uri": "https://hackertarget.com/reverse-dns-lookup/"}
+    ]
+  },
+  {
+    "title": "Email OSINT & Validation",
+    "children": [
+      {"title": "haveibeenpwned.com", "uri": "https://haveibeenpwned.com"},
+      {"title": "hunter.io", "uri": "https://hunter.io"},
+      {"title": "verify-email.org", "uri": "https://verify-email.org"},
+      {"title": "email-checker.net", "uri": "https://email-checker.net"},
+      {"title": "tools.emailhippo.com", "uri": "https://tools.emailhippo.com"},
+      {"title": "emailrep.io", "uri": "https://emailrep.io"},
+      {"title": "dehashed.com", "uri": "https://dehashed.com"},
+      {"title": "leakcheck.io", "uri": "https://leakcheck.io"}
+    ]
+  },
+  {
+    "title": "Phone OSINT / Validation",
+    "children": [
+      {"title": "numverify.com", "uri": "https://numverify.com"},
+      {"title": "phonenumbers.org", "uri": "https://phonenumbers.org"},
+      {"title": "phonevalidator.com", "uri": "https://phonevalidator.com"},
+      {"title": "truecaller.com", "uri": "https://www.truecaller.com"},
+      {"title": "sync.me", "uri": "https://sync.me"},
+      {"title": "who-call.me", "uri": "https://who-call.me"}
+    ]
+  },
+  {
+    "title": "Exploits & Vulnerabilities",
+    "children": [
+      {"title": "exploit-db.com", "uri": "https://www.exploit-db.com"},
+      {"title": "cve.org", "uri": "https://cve.org"},
+      {"title": "nvd.nist.gov", "uri": "https://nvd.nist.gov"},
+      {"title": "vulners.com", "uri": "https://vulners.com"},
+      {"title": "packetstormsecurity.com", "uri": "https://packetstormsecurity.com"},
+      {"title": "0day.today", "uri": "https://0day.today"}
+    ]
+  },
+  {
+    "title": "Recon / Tools",
+    "children": [
+      {"title": "shodan.io", "uri": "https://www.shodan.io"},
+      {"title": "censys.io", "uri": "https://censys.io"},
+      {"title": "crt.sh", "uri": "https://crt.sh"},
+      {"title": "securitytrails.com", "uri": "https://securitytrails.com"},
+      {"title": "builtwith.com", "uri": "https://builtwith.com"},
+      {"title": "wappalyzer.com", "uri": "https://www.wappalyzer.com"},
+      {"title": "webtechsurvey.com", "uri": "https://webtechsurvey.com"}
+    ]
+  },
+  {
+    "title": "Testing Playgrounds",
+    "children": [
+      {"title": "xss-game.appspot.com", "uri": "https://xss-game.appspot.com"},
+      {"title": "securityheaders.com", "uri": "https://securityheaders.com"},
+      {"title": "observatory.mozilla.org", "uri": "https://observatory.mozilla.org"},
+      {"title": "requestbin.com", "uri": "https://requestbin.com"},
+      {"title": "webhook.site", "uri": "https://webhook.site"}
+    ]
+  },
+  {
+    "title": "Privacy Guides",
+    "children": [
+      {"title": "privacyguides.org", "uri": "https://privacyguides.org"},
+      {"title": "ssd.eff.org", "uri": "https://ssd.eff.org"},
+      {"title": "anonymousplanet.org", "uri": "https://anonymousplanet.org"},
+      {"title": "restoreprivacy.com", "uri": "https://restoreprivacy.com"},
+      {"title": "privacytools.io", "uri": "https://www.privacytools.io"}
+    ]
+  }
+]

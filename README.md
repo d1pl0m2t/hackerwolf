@@ -46,10 +46,23 @@ Install Firefox or LibreWolf using your system package manager or official websi
 3. Import and Backup → Import Bookmarks from JSON
 4. Select `bookmarks.json`
 
-### 3. Apply hardened preferences
+### 3. Add-ons
+1. Ublock Origin
+2. Decentraleyes
+3. LocalCDN
+4. User-Agent switcher and manager
+5. HTTPS Everywhere
+6. FoxyProxy
+7. Wappalyzer
+8. Dark Reader
+9. FlagFox
+10. i dont still care about cookies
+
+### 4. Apply hardened preferences
 1. Locate your browser profile directory
 2. Copy `user.js` into the profile root
 3. Restart the browser
+
 
 Note:
 Existing preferences may override or conflict with these settings.

@@ -6,6 +6,10 @@ privacy researchers, and penetration testers.
 The project does NOT modify your system automatically.
 All files must be applied manually by the user.
 
+
+https://github.com/user-attachments/assets/d708fec1-775d-4a6c-b61c-b75a7d7a3298
+
+
 ## Repository contents
 
 - `bookmarks.json`

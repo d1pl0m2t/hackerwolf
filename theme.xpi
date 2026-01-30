@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Hardened Dark Background",
+  "version": "1.0",
+  "theme": {
+    "images": {
+      "theme_frame": "bg.jpg",
+      "headerURL": "bg.jpg"
+    },
+    "colors": {
+      "accentcolor": "#1d1f21",
+      "textcolor": "#ffffff"
+    }
+  }
+}
